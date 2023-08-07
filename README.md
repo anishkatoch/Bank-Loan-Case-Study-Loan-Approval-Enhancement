@@ -2,7 +2,10 @@
 
 
 
+
+
 **Introduction**
+
 
 In the realm of finance, bank loans play a pivotal role in providing individuals and businesses with the necessary capital to achieve their goals and aspirations. A bank loan is a financial arrangement where a borrower receives funds from a lending institution, typically a bank, with an obligation to repay the borrowed amount over a specified period, along with accrued interest.
 
