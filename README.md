@@ -30,6 +30,22 @@ The primary objective of this case study is to uncover valuable insights into th
 
 
 
+## Univariate Analysis
+
+
+### DEFAULTER
+
+![housing 1](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/281517a3-435c-4f47-a550-fb82132ae946)
+
+
+### NON DEFAULTER
+
+
+![housing 0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/a64c892d-3e77-4bad-94c0-67b533109917)
+
+
+
+
 ## Insights
 
 
