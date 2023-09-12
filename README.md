@@ -47,7 +47,20 @@ The primary objective of this case study is to uncover valuable insights into th
 ## BIVARIATE ANALYSIS
 
 
-https://github.com/anishkatoch/Bank-Loan-Case-Study/issues/3#issue-1891492395
+### DEFAULTER AND NON DEFAULTER
+
+
+![F1](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/91746ac6-698f-42ca-b434-51f1ac543b4b)
+
+
+
+## SEGMENTED ANALYSIS
+
+
+![S10](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/853b4f55-2132-4cfc-955a-c7d502931776)
+
+
+
 
 
 
