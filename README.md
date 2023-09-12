@@ -80,7 +80,14 @@ The primary objective of this case study is to uncover valuable insights into th
 
 
 
+
+
 ![CLIENT](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/b2820a04-fe0c-4923-8361-938198b571)
+
+
+
+
+
 
 
 
