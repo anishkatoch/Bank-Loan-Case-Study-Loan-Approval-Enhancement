@@ -80,6 +80,8 @@ The primary objective of this case study is to uncover valuable insights into th
 ![CLIENT](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/b2820a04-fe0c-4923-8361-938198b571
 
 
+
+
 - We can see that the Defaulters are more for previously Unused offers loan status clients, who were New.
 - For previously Approved status, the New clients were more defaulted followed by Repeater.
 - For previously Refused applicants, the Defaulters are more Refreshed clients.
@@ -93,9 +95,8 @@ The primary objective of this case study is to uncover valuable insights into th
 
 
 
-
-
-
+- We see that previously Refused clients are more likely to default compared to previously Approved clients.
+- Additionally, in all cases, males have a higher default rate than females.
 
 
 
