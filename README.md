@@ -61,6 +61,41 @@ The primary objective of this case study is to uncover valuable insights into th
 
 
 
+## TOP 10 CORRELATON
+
+### DEFAULTER
+
+![1](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/a83eb683-a344-46b9-9a9b-a4f4d449668c)
+
+
+### NON DEFAULTER 
+
+![0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/5c7dda8e-0dd9-41f9-b27c-a230bec3ef6c)
+
+
+## PREVIOUS LOAN STATUS 
+
+### CLIENT TYPE
+
+![CLIENT](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/b2820a04-fe0c-4923-8361-938198b571
+
+
+- We can see that the Defaulters are more for previously Unused offers loan status clients, who were New.
+- For previously Approved status, the New clients were more defaulted followed by Repeater.
+- For previously Refused applicants, the Defaulters are more Refreshed clients.
+- For previously Canceled applicants, the Defaulters are more New clients.
+
+
+
+### GENDER
+
+![GENDER](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/73b85cfa-d55c-4177-b131-7a1df9b9a48c)
+
+
+
+
+
+
 
 
 
