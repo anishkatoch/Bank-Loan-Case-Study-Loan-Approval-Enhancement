@@ -44,6 +44,12 @@ The primary objective of this case study is to uncover valuable insights into th
 ![housing 0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/a64c892d-3e77-4bad-94c0-67b533109917)
 
 
+## BIVARIATE ANALYSIS
+
+
+https://github.com/anishkatoch/Bank-Loan-Case-Study/issues/3#issue-1891492395
+
+
 
 
 ## Insights
