@@ -4,7 +4,7 @@
 
 
 
-![image](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/326cec83-fa9e-4fbd-ae8b-fbf208307d65)
+![image](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/4d12d884-88db-4929-acbb-8414b41c3796)
 
 
 
