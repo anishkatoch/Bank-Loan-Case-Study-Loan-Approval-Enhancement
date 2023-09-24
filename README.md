@@ -12,7 +12,7 @@
 
 
 
-**Introduction**
+## Introduction
 
 
 -  In the realm of finance, bank loans play a pivotal role in providing individuals and businesses with the necessary capital to achieve their goals and aspirations. A bank loan is a financial arrangement where a borrower receives funds from a lending institution, typically a bank, with an obligation to repay the borrowed amount over a specified period, along with accrued interest.In this case study, we delve into the world of bank loans, exploring the intricate processes involved in loan approval, risk assessment, and decision-making. The analysis revolves around understanding the factors that influence a borrower's eligibility for a loan, the evaluation of creditworthiness, and the subsequent implications for both borrowers and lenders.
@@ -21,7 +21,7 @@
 
 
 
-**APPROACH**:
+## Approach:
 
   1. Data Cleaning and Pre-processing: This step involves removing any irrelevant or missing data from the dataset, and formatting the data so that it can be used for analysis.
 
@@ -50,7 +50,7 @@
 ![housing 0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/a64c892d-3e77-4bad-94c0-67b533109917)
 
 
-## BIVARIATE ANALYSIS
+## Bivariate Analysis
 
 
 - ### DEFAULTER AND NON DEFAULTER
@@ -60,7 +60,7 @@
 
 
 
-## SEGMENTED ANALYSIS
+## Segmented Analysis
 
 
 ![S10](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/853b4f55-2132-4cfc-955a-c7d502931776)
@@ -79,7 +79,7 @@
 ![0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/5c7dda8e-0dd9-41f9-b27c-a230bec3ef6c)
 
 
-## PREVIOUS LOAN STATUS 
+## Previous Loan Status
 
 - ### CLIENT TYPE
 
