@@ -21,7 +21,7 @@
 
 
 
-• APPROACH:
+**APPROACH**:
 
   1. Data Cleaning and Pre-processing: This step involves removing any irrelevant or missing data from the dataset, and formatting the data so that it can be used for analysis.
 
