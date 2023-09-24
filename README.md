@@ -184,16 +184,12 @@ These insights can help the bank make informed decisions and improve its loan po
 
 
 
-1. **Data Volume:** 
-   - Managing and analyzing a large dataset with 24 lakh (2.4 million) data points can be computationally intensive and may require specialized infrastructure for efficient processing.
+1. **Data Volume:** Managing and analyzing a large dataset with 24 lakh (2.4 million) data points can be computationally intensive and may require specialized infrastructure for efficient processing.
 
-2. **Data Cleaning and Pre-processing:** 
-   - Cleaning and preparing such a vast dataset can be time-consuming and challenging, requiring thorough data accuracy and consistency checks.
+2. **Data Cleaning and Pre-processing:** Cleaning and preparing such a vast dataset can be time-consuming and challenging, requiring thorough data accuracy and consistency checks.
 
-3. **Data Visualization:** 
-   - Designing effective visualizations to convey insights from a dataset with numerous columns and variables can be a significant challenge, especially when dealing with complex financial data.
+3. **Data Visualization:** Designing effective visualizations to convey insights from a dataset with numerous columns and variables can be a significant challenge, especially when dealing with complex financial data.
 
-4. **Interpreting Complex Results:** 
-   - Interpreting and communicating the results of complex data analysis, especially with a dataset of this size, can be challenging, requiring clear and actionable insights for decision-makers.
+4. **Interpreting Complex Results:** Interpreting and communicating the results of complex data analysis, especially with a dataset of this size, can be challenging, requiring clear and actionable insights for decision-makers.
 
 
