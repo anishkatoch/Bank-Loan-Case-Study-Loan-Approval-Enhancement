@@ -192,7 +192,25 @@ These insights can help the bank make informed decisions and improve its loan po
 
 
 
+## Limitations:
+
+
+
+1. **Data Source and Quality:** The quality and reliability of the dataset used for analysis are critical. If the data contains errors, biases, or missing values, it can lead to inaccurate insights and decisions.
+
+2. **Data Representativeness:** The dataset may not fully represent the entire population of loan applicants. Biases in the data, such as underrepresentation of certain demographics or regions, can affect the generalizability of the findings.
+
+3. **Limited Context:** The project provides insights into loan approval factors but may lack contextual information about external economic factors, regulatory changes, or market dynamics that could impact loan decisions.
+
+4. **Assumption of Causality:** Correlations between variables do not necessarily imply causation. While the project identifies factors correlated with loan defaults, establishing causality would require more in-depth research.
+
+5. **Model Validation:** If predictive models are used, their accuracy and generalizability need to be rigorously validated to ensure their reliability in real-world scenarios.
+
+
+
+
 ## Challenges:
+
 
 
 
