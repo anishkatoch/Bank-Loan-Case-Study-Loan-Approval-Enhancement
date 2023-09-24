@@ -39,12 +39,12 @@
 ## Univariate Analysis
 
 
-### DEFAULTER
+- ### DEFAULTER
 
 ![housing 1](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/281517a3-435c-4f47-a550-fb82132ae946)
 
 
-### NON DEFAULTER
+- ### NON DEFAULTER
 
 
 ![housing 0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/a64c892d-3e77-4bad-94c0-67b533109917)
@@ -53,7 +53,7 @@
 ## BIVARIATE ANALYSIS
 
 
-### DEFAULTER AND NON DEFAULTER
+- ### DEFAULTER AND NON DEFAULTER
 
 
 ![F1](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/91746ac6-698f-42ca-b434-51f1ac543b4b)
@@ -69,19 +69,19 @@
 
 ## TOP 10 CORRELATON
 
-### DEFAULTER
+- ### DEFAULTER
 
 ![1](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/a83eb683-a344-46b9-9a9b-a4f4d449668c)
 
 
-### NON DEFAULTER 
+- ### NON DEFAULTER 
 
 ![0](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/5c7dda8e-0dd9-41f9-b27c-a230bec3ef6c)
 
 
 ## PREVIOUS LOAN STATUS 
 
-### CLIENT TYPE
+- ### CLIENT TYPE
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-### GENDER
+- ### GENDER
 
 ![GENDER](https://github.com/anishkatoch/Bank-Loan-Case-Study/assets/130006013/73b85cfa-d55c-4177-b131-7a1df9b9a48c)
 
@@ -123,7 +123,7 @@
 
 
 
-## Insights
+## Insights:
 
 
 ### A. Decisive Factors for Repayer Applicants:
@@ -176,5 +176,24 @@ These insights can help the bank make informed decisions and improve its loan po
 - The project has facilitated making tough decisions regarding dropping certain columns, changing values, and refining data, providing insights into real-life problems that can arise in the banking sector due to data unavailability.
 - This project has enabled the practical application of theoretical knowledge of Excel, enhancing skills and understanding of data analysis in the context of the banking industry.
 - Overall, this project has shed light on the complexities and significance of the loan approval process and data analysis in the banking sector, underscoring the importance of informed decision-making for the continued success and growth of the industry.
+
+
+
+
+**Challenges:**
+
+
+
+1. **Data Volume:** 
+   - Managing and analyzing a large dataset with 24 lakh (2.4 million) data points can be computationally intensive and may require specialized infrastructure for efficient processing.
+
+2. **Data Cleaning and Pre-processing:** 
+   - Cleaning and preparing such a vast dataset can be time-consuming and challenging, requiring thorough data accuracy and consistency checks.
+
+3. **Data Visualization:** 
+   - Designing effective visualizations to convey insights from a dataset with numerous columns and variables can be a significant challenge, especially when dealing with complex financial data.
+
+4. **Interpreting Complex Results:** 
+   - Interpreting and communicating the results of complex data analysis, especially with a dataset of this size, can be challenging, requiring clear and actionable insights for decision-makers.
 
 
