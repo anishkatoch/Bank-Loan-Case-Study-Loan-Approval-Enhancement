@@ -12,7 +12,11 @@
 
 
 
+
+
 ## Introduction
+
+
 
 
 -  In the realm of finance, bank loans play a pivotal role in providing individuals and businesses with the necessary capital to achieve their goals and aspirations. A bank loan is a financial arrangement where a borrower receives funds from a lending institution, typically a bank, with an obligation to repay the borrowed amount over a specified period, along with accrued interest.In this case study, we delve into the world of bank loans, exploring the intricate processes involved in loan approval, risk assessment, and decision-making. The analysis revolves around understanding the factors that influence a borrower's eligibility for a loan, the evaluation of creditworthiness, and the subsequent implications for both borrowers and lenders.
@@ -21,7 +25,15 @@
 
 
 
+
+
+
+
 ## Approach:
+
+
+
+
 
   1. Data Cleaning and Pre-processing: This step involves removing any irrelevant or missing data from the dataset, and formatting the data so that it can be used for analysis.
 
