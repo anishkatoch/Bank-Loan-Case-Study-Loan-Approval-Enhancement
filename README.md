@@ -27,6 +27,21 @@
 
 
 
+## Problem Statement:
+
+
+In the dynamic landscape of finance, our company specializes in providing loans to urban customers. However, we face a significant challenge where some individuals with insufficient credit history exploit this situation, leading to loan defaults. To address this issue, the primary objective of this project is to employ Exploratory Data Analysis (EDA) techniques. Through rigorous data examination, we aim to uncover patterns, trends, and insights within our loan applicant data. The overarching goal is to develop a robust system that ensures capable applicants are not unfairly rejected due to their limited credit history, while simultaneously identifying and mitigating the risk posed by those with a propensity for default. By leveraging data-driven insights, we aspire to strike a balance that not only safeguards our company's interests but also promotes financial inclusivity and fair lending practices.
+
+
+
+
+## Aimed to solve:
+
+
+The project aims to address the critical issue of optimizing the loan approval process in the finance industry, particularly for clients with limited credit history. By employing data analysis, this initiative seeks to distinguish between capable applicants and potential defaulters effectively. The primary goal is to develop a data-driven approach that can accurately assess an applicant's creditworthiness, thus minimizing the risk of default while ensuring that deserving individuals are not unfairly rejected. This project endeavors to provide a refined loan approval system that combines the power of data analytics with sound financial practices, ultimately promoting responsible lending and financial inclusion. By doing so, it aims to enhance the efficiency of the loan approval process, reduce default rates, and contribute to the financial stability and growth of the lending institution.
+
+
+
 
 
 ## Approach:
